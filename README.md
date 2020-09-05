@@ -1,4 +1,4 @@
-# DISCONTINUED
+# Semi-Maintained
 # SodaDungeon2Tool
 **This tool is NOT an offical tool from the game developer**
 ## Purpose
