@@ -51,7 +51,7 @@ Initial release
 <br>
 ## Getting Started
 ### Either
-Go to the [Releases](https://github.com/Death-Truction/SodaDungeon2Tool/releases) Page, download the latest release and run it.
+Go to the [Releases](https://github.com/Calomiriel/SodaDungeon2Tool/releases) Page, download the latest release and run it.
 ### Or
 You can Compile the Application yourself using Visual Studio and Run the compiled Executable
 ## Usage<br>
@@ -64,7 +64,7 @@ Here you can:
 * Start and stop the Tool for Monitoring your Dungeon run anytime
 * See the latest captured screenshot
 ### Configuration Menu
-![SettingsMenu](https://raw.githubusercontent.com/Death-Truction/SodaDungeon2Tool/master/Images/Settings.png)
+![SettingsMenu](https://raw.githubusercontent.com/Calomiriel/SodaDungeon2Tool/master/Images/Settings.png)
   
   
 Allows you to change the current Configuration. All changes will be saved locally in the config.txt file and will be used after the current check interval ended.
@@ -76,4 +76,4 @@ Currently available Configuration are:
 * Notification Sound: Change the notification sound
 * Notification Volume: Edit the voume of the notification sound
 ## How it works
-![HowItWorks](https://raw.githubusercontent.com/Death-Truction/SodaDungeon2Tool/master/Images/HowItWorks.png)
+![HowItWorks](https://raw.githubusercontent.com/Calomiriel/SodaDungeon2Tool/master/Images/HowItWorks.png)
